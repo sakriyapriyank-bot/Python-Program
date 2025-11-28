@@ -207,15 +207,3 @@ Advanced shape patterns
 Pattern generator scripts
 
 Pattern visualizer tools
-
-
-
----
-
-If you want, I can also create:
-✔ A shorter, simple README
-✔ A professional README with badges and sections
-✔ A README with screenshots / GIFs of pattern outputs
-✔ A README with tables listing all 65 patterns
-
-Just tell me!

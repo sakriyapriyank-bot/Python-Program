@@ -175,12 +175,6 @@ Clone the repository:
 
 git clone https://github.com/sakriyapriyank-bot/Python-Program/blob/main/README.md?plain=1
 
-Open folder:
-
-cd your-repo-name
-
-Run any pattern program:
-
 python pattern27.py
 
 You can modify row values or customize patterns as needed.

@@ -23,7 +23,7 @@ for i in range(1, rows + 1):
  1 2 3 4
  1 2 3 4 5
 
- git clone https://github.com/your-username/your-repo-name.git
+ git clone https://github.com/sakriyapriyank-bot/Python-Program/blob/main/README.md?plain=1
 
  cd your-repo-name
 

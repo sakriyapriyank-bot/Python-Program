@@ -1,7 +1,3 @@
-Here is a long, detailed, ready-to-paste GitHub README.md specially written for a repository containing 65 Python Pyramid Pattern Codes.
-This version is more descriptive, long-form, and emphasizes direct Python code inside the repo.
-
-
 ---
 
 🐍 Python Pyramid Patterns – Collection of 65 Programs
